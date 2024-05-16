@@ -1,22 +1,22 @@
 {
   "project_info": {
-    "project_number": "762589826242",
-    "firebase_url": "https://breaktheterminal-default-rtdb.firebaseio.com",
-    "project_id": "breaktheterminal",
-    "storage_bucket": "breaktheterminal.appspot.com"
+    "project_number": "Add your own json file",
+    "firebase_url": "Add your own json file",
+    "project_id": "Add your own json file",
+    "storage_bucket": "Add your own json file"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:762589826242:android:c69a02253223c8481cff5b",
+        "mobilesdk_app_id": "Add your own json file",
         "android_client_info": {
-          "package_name": "com.example.CBUdemo"
+          "package_name": "Add your own json file"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAjDmx4WCWY0UQ0dV62nkHZLouTY08znfc"
+          "current_key": "Add your own json file"
         }
       ],
       "services": {
