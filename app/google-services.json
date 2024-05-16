@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "762589826242",
+    "firebase_url": "https://breaktheterminal-default-rtdb.firebaseio.com",
+    "project_id": "breaktheterminal",
+    "storage_bucket": "breaktheterminal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762589826242:android:c69a02253223c8481cff5b",
+        "android_client_info": {
+          "package_name": "com.example.CBUdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjDmx4WCWY0UQ0dV62nkHZLouTY08znfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
