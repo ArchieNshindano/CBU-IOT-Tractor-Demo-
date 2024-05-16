@@ -1,5 +1,5 @@
 # CBU-IOT-Tractor-Demo-
-CBU IOT Tractor Demo  is an exciting Internet of Things (IoT) project that allows you to control two LEDs remotely using Firebase plus retrieving temperature. 
+CBU IOT Tractor Demo  is an exciting Internet of Things (IoT) project that allows you to control two LEDs remotely using Firebase plus retrieving temperature. This repository is for an android app.
 
 Here is the ESP code below
 
